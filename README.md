@@ -5,7 +5,7 @@ Projet de site web pour une pâtisserie artisanale haut de gamme.
 ## Structure du Projet
 - `index.html` : Accueil et présentation.
 - `patisseries.html` : Liste des créations artisanales.
-- `commande.html` : Formulaire de réservation en ligne.
+- `panier.html` : Récapitulatif du panier et formulaire de réservation.
 - `contact.html` : Informations de contact et boutique.
 - `css/` : Styles personnalisés (Vieux rose, Chocolat, Crème).
 - `js/` : Scripts pour l'interactivité.
